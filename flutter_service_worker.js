@@ -4,9 +4,16 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "84c890a23dfad6326a01f16fbc1f4746",
+<<<<<<< HEAD
 "index.html": "d84d1c705c9a3b8e5d8c649672bec345",
 "/": "d84d1c705c9a3b8e5d8c649672bec345",
 "main.dart.js": "8a753a2c9f48e552bf6f1cb18a309a60",
+=======
+"splash/img/light-background.png": "82115b564644d4572db1a2d93fd2345e",
+"index.html": "08e0f6bca9e86a9b9a409648e6623a9b",
+"/": "08e0f6bca9e86a9b9a409648e6623a9b",
+"main.dart.js": "7290d50a4efc62197a79a35c2343d97f",
+>>>>>>> 1de2ee1 (third commit)
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -14,6 +21,7 @@ const RESOURCES = {"version.json": "84c890a23dfad6326a01f16fbc1f4746",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "16a10d62bee9e1db978ad7a9ebd80b60",
+<<<<<<< HEAD
 ".git/config": "e185cbd791f4a161dc181defeecbb78f",
 ".git/objects/6f/9cad4c116bc8d72e2497226abb5c05ee64982c": "0d104480d68c1652a53721377a02a882",
 ".git/objects/03/eaddffb9c0e55fb7b5f9b378d9134d8d75dd37": "87850ce0a3dd72f458581004b58ac0d6",
@@ -88,6 +96,18 @@ const RESOURCES = {"version.json": "84c890a23dfad6326a01f16fbc1f4746",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/fonts/MaterialIcons-Regular.otf": "8ea08ea2444cc58ec5807fd7669e488f",
+=======
+"assets/AssetManifest.json": "14ec679637456c086e9760b6b92ef189",
+"assets/NOTICES": "3802cfa5151cb0ed4fe7009962c68eac",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/AssetManifest.bin.json": "ef2b1ba7ca75a242a51b21ffba8c8342",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
+"assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
+"assets/AssetManifest.bin": "539244b96436fca8f6e5fdf008079084",
+"assets/fonts/MaterialIcons-Regular.otf": "8ea08ea2444cc58ec5807fd7669e488f",
+"assets/assets/images/Image2.png": "93918981c705cac79eabdc267fcd9a1c",
+"assets/assets/images/Image.png": "82115b564644d4572db1a2d93fd2345e",
+>>>>>>> 1de2ee1 (third commit)
 "canvaskit/skwasm.js": "445e9e400085faead4493be2224d95aa",
 "canvaskit/skwasm.js.symbols": "741d50ffba71f89345996b0aa8426af8",
 "canvaskit/canvaskit.js.symbols": "38cba9233b92472a36ff011dc21c2c9f",
